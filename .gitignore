@@ -1,10 +1,15 @@
 # Folders
-
+hw3/part2/GeneratedData/
+hw3/part2/NoiseData/
+hw3/part2/SpeechData/
 
 # Zip wav and npy
 .zip
 .wav
 .npy
+
+#pytorch models
+.pth
 
 # Environments
 .env
