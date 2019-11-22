@@ -35,3 +35,9 @@ signal was used for the testing dataset.
 2. Used FFT Mask, IRM Mask, IBM Mask and Spectrograms for determining which target is best for Speech Enhancement
 3. Replicated the results of the paper - Wang, Yuxuan, Arun Narayanan, and DeLiang Wang. "On training targets for supervised speech separation." IEEE/ACM transactions on audio, speech, and language processing 22.12 (2014): 1849-1858.
 4. Technologies Used - Pytorch, Python, Librosa 
+
+## Assignment 4
+Using Kaldi on TIMIT dataset for Automatic Speech Recognition.
+
+## Assignment 5
+Using Google Speech-to-Text API for Automatic Speech Recognition on TIMIT Dataset
